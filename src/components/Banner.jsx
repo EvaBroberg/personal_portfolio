@@ -5,7 +5,7 @@ export const Banner = () => {
         <section className="banner" id="home">
             <Container>
                 <Row className="align-items-center">
-                    <Col>
+                    <Col xs={12} >
 
                     </Col>
                 </Row>

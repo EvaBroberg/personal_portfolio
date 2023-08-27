@@ -21,3 +21,8 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+#personal images
+/img/personal/*.jpg
+/img/personal/*.png
+/img/personal/*.svg
